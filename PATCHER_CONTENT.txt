@@ -4,5 +4,5 @@
 ****https://github.com/timetrackerapp2020/patch/raw/master/closecircle.png<req
 ****https://github.com/timetrackerapp2020/patch/raw/master/zip4j133.jar<lib
 https://github.com/timetrackerapp2020/patch/raw/master/zip4j133.jar<lib
-https://raw.githubusercontent.com/timetrackerapp2020/patch/master/ver.txt<
+https://raw.githubusercontent.com/timeinpro2020/timeinpro/master/ver.txt<
 https://github.com/timeinpro2020/timeinpro/raw/master/TimeInPRO.exe<
