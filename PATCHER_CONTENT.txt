@@ -2,3 +2,5 @@ https://github.com/timeinpro2020/timeinpro/raw/master/TimeInPRO.exe<
 https://raw.githubusercontent.com/timeinpro2020/timeinpro/master/ver.txt<
 https://github.com/timeinpro2020/timeinpro/raw/master/viewfocus.png<req
 https://github.com/timeinpro2020/timeinpro/raw/master/viewunfocus.png<req
+https://github.com/timeinpro2020/timeinpro/raw/master/default.jpg<req
+https://github.com/timeinpro2020/timeinpro/raw/master/default.png<req
