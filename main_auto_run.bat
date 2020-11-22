@@ -1,0 +1,2 @@
+start TimeInPRO.exe
+exit

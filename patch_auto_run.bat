@@ -1,0 +1,2 @@
+start Patcher.exe
+exit
