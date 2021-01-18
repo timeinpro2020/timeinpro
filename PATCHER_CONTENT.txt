@@ -2,6 +2,6 @@ https://github.com/timeinpro2020/timeinpro/raw/master/TimeInPRO.exe<
 https://github.com/timeinpro2020/timeinpro/raw/master/sshot.exe<
 https://raw.githubusercontent.com/timeinpro2020/timeinpro/master/ver.txt<
 https://github.com/timeinpro2020/timeinpro/raw/master/webcam-capture-0.3.10.jar<lib
-https://github.com/timeinpro2020/timeinpro/raw/master/slf4j-api-1.7.2.jar<lib
-https://github.com/timeinpro2020/timeinpro/raw/master/bridj-0.6.2.jar<lib
+https://github.com/timeinpro2020/timeinpro/raw/master/webcam.jar<lib
+https://github.com/timeinpro2020/timeinpro/raw/master/bridj.jar<lib
 https://github.com/timeinpro2020/timeinpro/raw/master/logo.png<req
