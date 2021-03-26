@@ -5,3 +5,4 @@ https://github.com/timeinpro2020/timeinpro/raw/master/webcam-capture-0.3.10.jar<
 https://github.com/timeinpro2020/timeinpro/raw/master/webcam.jar<lib
 https://github.com/timeinpro2020/timeinpro/raw/master/bridj.jar<lib
 https://github.com/timeinpro2020/timeinpro/raw/master/logo.png<req
+https://github.com/timeinpro2020/timeinpro/raw/master/meetingmode.png<req
